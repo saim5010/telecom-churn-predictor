@@ -1,0 +1,26 @@
+feature
+Gender
+Partner
+Dependents
+TenureMonths
+PhoneService
+MultipleLines
+OnlineSecurity
+OnlineBackup
+DeviceProtection
+TechSupport
+StreamingTV
+StreamingMovies
+PaperlessBilling
+MonthlyCharges
+TotalCharges
+ChargesPerMonth
+ServicesCount
+SeniorNoSupport
+Contract_One year
+Contract_Two year
+InternetService_Fiber optic
+InternetService_No
+PaymentMethod_Credit card (automatic)
+PaymentMethod_Electronic check
+PaymentMethod_Mailed check
